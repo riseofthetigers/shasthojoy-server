@@ -1,4 +1,4 @@
-HosptialRun Server
+Shasthojoy Server
 ======
 This is the Node.js backend for HospitalRun.  The intention is that this would be used in HospitalRun production deployments.
 Having a Node.js backend server allows us to do the following:
